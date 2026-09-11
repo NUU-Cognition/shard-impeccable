@@ -1,0 +1,7 @@
+shard-spec: "0.2.0"
+version: "0.1.0"
+name: Impeccable
+shorthand: imp
+description: "One use_imp skill that applies the Impeccable design logic to any interface task"
+dependencies:
+  - source: NUU-Cognition/shard-flint
