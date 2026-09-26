@@ -1,5 +1,9 @@
 shard-spec: "0.2.0"
-version: "0.1.1"
+id: 6d3353e9-f95a-416c-b1b0-d4a8d19af30b
+org: nuucognition
+source:
+  id: 2186b7bf-86c4-4521-941f-35d9ce0caa41
+version: "0.1.2"
 name: Impeccable
 shorthand: imp
 description: "One use_imp skill that applies the Impeccable design logic to any interface task"
